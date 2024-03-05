@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\bin\Debug\net8.0\EmployeeList.exe
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\bin\Debug\net8.0\EmployeeList.deps.json
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\bin\Debug\net8.0\EmployeeList.runtimeconfig.json
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\bin\Debug\net8.0\EmployeeList.dll
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\bin\Debug\net8.0\EmployeeList.pdb
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\obj\Debug\net8.0\EmployeeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\obj\Debug\net8.0\EmployeeList.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\obj\Debug\net8.0\EmployeeList.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\obj\Debug\net8.0\EmployeeList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\obj\Debug\net8.0\EmployeeList.dll
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\obj\Debug\net8.0\refint\EmployeeList.dll
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\obj\Debug\net8.0\EmployeeList.pdb
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\obj\Debug\net8.0\EmployeeList.genruntimeconfig.cache
+C:\Users\DELL\source\repos\EmployeeList\EmployeeList\obj\Debug\net8.0\ref\EmployeeList.dll
